@@ -1,4 +1,7 @@
-print("Hello World")
-print("hi people")
-print("good day")
+
+print("Hello World");
+print("hi people");
+print("good day");
 print("Hello" + $sax + $name);
+
+
